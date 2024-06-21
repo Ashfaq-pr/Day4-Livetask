@@ -1,0 +1,90 @@
+h1 {
+    text-align: center;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+caption {
+    padding: 10px;
+}
+caption {
+    display: table-caption;
+    text-align: -webkit-center;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    unicode-bidi: isolate;
+    border-color: inherit;
+}
+th {
+    background-color: rgb(235, 235, 235);
+}
+th, td {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px 20px;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+    unicode-bidi: isolate;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    unicode-bidi: isolate;
+    border-color: inherit;
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+th, td {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px 20px;
+}
+tr:nth-child(even) td {
+    background-color: rgb(250, 250, 250);
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    unicode-bidi: isolate;
+}
